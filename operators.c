@@ -17,7 +17,6 @@ int main(){
    printf("a - b = %f\n", a-c);
    printf("a * b = %f\n", a*c);
    printf("a / b = %f\n", a/c);
-//    printf("a % b = %d\n", a%b);
 
    return 0;
 }
